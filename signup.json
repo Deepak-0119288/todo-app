@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Deepak",
+    "password": "123",
+    "email": "deeking0123@gmail.com",
+    "tasks": [
+      {
+        "text": "hiiii",
+        "completed": true
+      },
+      {
+        "text": "kyu",
+        "completed": false
+      }
+    ]
+  }
+]
